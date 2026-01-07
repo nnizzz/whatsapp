@@ -8,50 +8,50 @@ The Key Widgets Used are:
 
 🧱 CORE / STRUCTURE WIDGETS
 
-MaterialApp
-Scaffold
-SafeArea
+MaterialApp,
+Scaffold,
+SafeArea.
 
 🔝 APP BAR & TAB NAVIGATION
 
-AppBar
-DefaultTabController
-TabBar
-TabBarView
-Tab
+AppBar,
+DefaultTabController,
+TabBar,
+TabBarView,
+Tab.
 
 📜 LIST & SCROLLING
 
-ListView
-ListTile
+ListView,
+ListTile.
 
 👤 PROFILE / AVATAR / STATUS UI
 
-CircleAvatar
-Container
-BoxDecoration
-Border
-Stack
-Positioned
-NetworkImage
+CircleAvatar,
+Container,
+BoxDecoration,
+Border,
+Stack,
+Positioned,
+NetworkImage.
 
 🧩 LAYOUT & SPACING
 
-Row
-Column
-SizedBox
-Padding
+Row,
+Column,
+SizedBox,
+Padding.
 
 🎨 TEXT & ICONS
 
-Text
-TextStyle
-Icon
-IconButton
+Text,
+TextStyle,
+Icon,
+IconButton.
 
 🚀 ACTION BUTTONS
 
-FloatingActionButton
+FloatingActionButton.
 
 
 ⚠️ Disclaimer
